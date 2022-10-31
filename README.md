@@ -1,4 +1,4 @@
-# dio-live-athena
+# DIO-bootcamp Unimed-BH Ciência de Dados sobre o Amazon Athena
 Repositório do bootcamp Unimed-BH Ciência de Dados sobre o Amazon Athena
 
 ### Serviços utilizados nessa atividade prática
